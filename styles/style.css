@@ -137,3 +137,14 @@ aside.instagram-login{
 .app .download a {
     margin-right: 8px;
 }
+
+@media(max-width: 875px){
+    section.instagram-cell{
+        display: none;
+    }
+}
+@media(max-width: 450px){
+    .grupo{
+        border: 0;
+    }
+}
